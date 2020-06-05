@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999669477142",
+    "firebase_url": "https://fir-onaction.firebaseio.com",
+    "project_id": "fir-onaction",
+    "storage_bucket": "fir-onaction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999669477142:android:e0588fb59aaf22f4c02a37",
+        "android_client_info": {
+          "package_name": "com.example.Firebase_onAction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999669477142-gi14qf5d1q03jh0ok6a0v7iss34p6og7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5jeJsUCrJYE5q_6_ej2WbYbzl3tekJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999669477142-gi14qf5d1q03jh0ok6a0v7iss34p6og7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
